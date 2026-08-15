@@ -1,0 +1,83 @@
+{
+  "personal": {
+    "name": "Oruno Awhie",
+    "title": "Full-Stack Developer (React , C# & django)",
+    "email": "oruno.awhie@gmail.com",
+    "phone": "+234 915 554 1159",
+    "location": "Nigeria (Remote)",
+    "portfolio": "https://www.loisbraid.com/",
+    "github": "github.com/runo25"
+  },
+  "summary": "Results-driven Full-Stack Developer with 2 years of experience building responsive, high-performance web applications. Specialized in developing interactive user interfaces using React.js and engineering robust, scalable backend services using C# and .NET. Proven ability to take projects from concept to deployment, build backend automation scripts, and ensure cohesive UI/UX and secure RESTful API integrations.",
+  "skills": {
+    "Frontend": "React.js, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Responsive UI",
+    "Backend": "C#, .NET Core, ASP.NET Web API, Python, RESTful Architecture",
+    "Databases_Cloud": "SQL Server, Entity Framework, Firebase, Render, PythonAnywhere",
+    "Tools_Practices": "Git/GitHub, Postman, CI/CD basic workflows, Agile/Scrum, JSON Parsing"
+  },
+  "experience":[
+    {
+      "role": "Full-Stack Web Developer",
+      "company": "Independent Contracts",
+      "date": "Mar 2024 — Present",
+      "bullets":[
+        "Design and develop end-to-end web applications for SMB clients, utilizing React for dynamic frontends and C# .NET for secure backend APIs.",
+        "Translate Figma designs into pixel-perfect, mobile-responsive interfaces using Tailwind CSS and React components, reducing UI bugs by 30%.",
+        "Build and consume RESTful APIs to handle user authentication, booking workflows, and dynamic content management.",
+        "Collaborate directly with clients to define project scope, deliver milestones on schedule, and provide post-launch technical support."
+      ]
+    },
+    {
+      "role": "Front-End Developer",
+      "company": "Code and Canvas (WaaS Agency)",
+      "date": "Jun 2024 — Present",
+      "bullets":[
+        "Developed a reusable React component library and theme system, speeding up client site customization and reducing average build time by 50%.",
+        "Integrated frontend interfaces with backend services, handling asynchronous state management and data fetching.",
+        "Implemented responsive layouts and modern design principles to increase client lead generation."
+      ]
+    }
+  ],
+  "projects":[
+        {
+      "name": "Remina App",
+      "stack": "React.js, Progressive Web App (PWA), UI/UX",
+      "link": "https://remina-app.com/",
+      "bullets":[
+        "Spearheaded the frontend development of a Progressive Web Application (PWA) dedicated to seamless photo management and media sharing.",
+        "Engineered a highly responsive, app-like user interface using React, focusing on optimized image rendering, smooth state management, and cross-device compatibility."
+      ]
+    },
+    {
+      "name": "Lois Braid",
+      "stack": "React, Tailwind CSS, C# (.NET Core Web API)",
+      "link": "https://www.loisbraid.com",
+      "bullets":[
+        "Architected a dynamic web application featuring a modern, interactive frontend built in React and styled with Tailwind CSS.",
+        "Engineered a scalable C# backend using ASP.NET Core to handle data processing, API endpoints, and secure routing."
+      ]
+    },
+    {
+      "name": "Enterprise Document Automation Engine",
+      "stack": "Python, JSON, Jinja2, WeasyPrint",
+      "link": "Internal Tool",
+      "bullets":[
+        "Engineered a dynamic PDF generation system capable of transforming raw JSON data into legally compliant, perfectly styled contracts and invoices.",
+        "Automated the calculation of taxes, balances, and multi-currency formatting, reducing manual drafting time by over 95%."
+      ]
+    },
+    {
+      "name": "Prime Portfolio Platform",
+      "stack": "React, Tailwind, REST APIs",
+      "link": "https://primeportfolio.pythonanywhere.com",
+      "bullets": [
+        "Built a dynamic portfolio generation platform featuring customizable UI templates and real-time backend updates."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Diploma in Computer Science",
+    "school": "Petroleum Training Institute",
+    "date": "Sep 2021 — May 2025"
+  }
+}

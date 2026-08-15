@@ -1,0 +1,65 @@
+{
+  "personal": {
+    "name": "[FULL FIRST & LAST NAME]",
+    "title": "[TARGET JOB TITLE (e.g., Senior Web Developer)]",
+    "email": "[Professional Email Address]",
+    "phone": "[Phone Number with Country Code]",
+    "location": "[City, Country / Open to Remote]",
+    "portfolio": "[Link to Portfolio or Personal Site]",
+    "github": "[Link to LinkedIn or GitHub]"
+  },
+  "summary": "[A strong 3-4 sentence professional summary. State your total years of experience, your core expertise, and the specific value you bring to a business. Keep it action-oriented and avoid using 'I'. Focus on what you can do for the employer.]",
+  "skills": {
+    "Core Competencies": "[Skill 1], [Skill 2], [Skill 3], [Skill 4], [Skill 5]",
+    "Technical/Tools": "[Tool 1], [Tool 2], [Tool 3], [Tool 4], [Tool 5]",
+    "Methodologies": "[Methodology 1], [Methodology 2], [Methodology 3]",
+    "Soft Skills": "[Skill 1], [Skill 2], [Skill 3]"
+  },
+  "experience": [
+    {
+      "role": "[Most Recent Job Title]",
+      "company": "[Company Name]",
+      "date": "[Month Year] — Present",
+      "bullets": [
+        "[Action Verb] [Task/Project] using [Skill/Tool], resulting in [Quantifiable Metric, e.g., 'increased sales by 20%' or 'reduced load time by 30%'].",
+        "[Action Verb] [What you did] to solve [Specific Problem], which improved [Business Outcome].",
+        "Collaborated with [Team/Stakeholders] to deliver [Specific Project/Goal] ahead of schedule."
+      ]
+    },
+    {
+      "role": "[Previous Job Title]",
+      "company": "[Company Name]",
+      "date": "[Month Year] — [Month Year]",
+      "bullets": [
+        "Focus on accomplishments rather than just listing daily duties.",
+        "Include specific numbers, percentages, and dollar amounts wherever possible to prove your impact.",
+        "Demonstrate leadership, initiative, or problem-solving skills in this bullet point."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "[Flagship Project Name]",
+      "stack": "[Key Technologies or Tools Used]",
+      "link": "[Link to Live Project or Repository]",
+      "bullets": [
+        "[Briefly describe what the project is, who it is for, and the core problem it solves.]",
+        "[Highlight your specific role, the biggest challenge you overcame, or the best feature you built.]"
+      ]
+    },
+    {
+      "name": "[Secondary Project Name]",
+      "stack": "[Key Technologies or Tools Used]",
+      "link": "[Link to Live Project or Repository]",
+      "bullets": [
+        "[Explain the impact of the project or the results it achieved.]",
+        "[List the architecture, framework, or specific methodology used to achieve success.]"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "[Degree Name / Major or Certification Name]",
+    "school": "[University or Institution Name]",
+    "date": "[Start Year] — [Graduation Year]"
+  }
+}

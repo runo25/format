@@ -1,0 +1,74 @@
+{
+  "personal": {
+    "name": "Oruno Awhie",
+    "title": "Full-Stack AI Application Developer (React · Python · LLMs)",
+    "email": "oruno.awhie@gmail.com",
+    "phone": "+234 915 554 1159",
+    "location": "Nigeria (Open to Remote)",
+    "portfolio": "www.drakemarho.com",
+    "github": "github.com/runo25"
+  },
+  "summary": "Innovative Full-Stack AI Engineer with 2+ years of experience engineering high-performance web applications and production LLM integrations. Expert in crafting responsive, app-like interfaces with React.js and Tailwind CSS, paired with robust Python backends (FastAPI, Django) and intelligent AI workflows (RAG, OpenAI Function Calling, vector embeddings). Proven track record of shipping production PWAs and enterprise document automation systems.",
+  "skills": {
+    "AI & LLM Systems": "OpenAI / Claude APIs, LangChain, RAG Pipelines, Prompt Engineering, Function Calling, Vector Embeddings",
+    "Frontend Engineering": "React.js, Next.js, Tailwind CSS, TypeScript / ES6+, Progressive Web Apps (PWA), State Management",
+    "Backend & Cloud": "Python, FastAPI, Django REST Framework, Firebase, Docker, PostgreSQL, Render",
+    "Architecture & Tools": "REST APIs, WebSockets / SSE Streaming, Git/GitHub, CI/CD Workflows, Figma"
+  },
+  "experience": [
+    {
+      "role": "Full-Stack & PWA Developer",
+      "company": "Remina App",
+      "date": "2025 — Present",
+      "bullets": [
+        "Spearheaded end-to-end development of a Progressive Web App (PWA) for intelligent photo management and real-time media sharing.",
+        "Integrated AI-driven semantic search and automated image categorization using multimodal embeddings, boosting asset retrieval speed by 40%.",
+        "Engineered smooth client-side caching and responsive state management with React, ensuring sub-100ms UI interactions across devices."
+      ]
+    },
+    {
+      "role": "Founder & Lead Developer",
+      "company": "Code and Canvas (Web & AI Solutions)",
+      "date": "Jun 2024 — Present",
+      "bullets": [
+        "Delivered productised web applications and custom AI automation pipelines for SMEs, managing end-to-end architecture from concept to live deployment.",
+        "Engineered a modular React UI library and automated deployment workflows on Render, reducing client delivery cycles by 50%.",
+        "Implemented secure API authentication, database schemas, and background job queues for seamless production reliability."
+      ]
+    },
+    {
+      "role": "Software Consultant",
+      "company": "Independent Contracts",
+      "date": "Mar 2024 — Aug 2024",
+      "bullets": [
+        "Delivered full-stack bespoke web platforms for regional businesses, incorporating custom booking flows, client portals, and responsive UI systems.",
+        "Collaborated with stakeholders to translate business requirements into high-converting digital products with 98+ Lighthouse performance scores."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI Document Intelligence & Automation Pipeline",
+      "stack": "Python, OpenAI Function Calling, Jinja2, WeasyPrint, FastAPI",
+      "link": "https://github.com/runo25/format",
+      "bullets": [
+        "Architected an automated document pipeline extracting structured JSON entities from unstructured text and compiling deterministic, pixel-perfect PDFs with zero hallucinations.",
+        "Integrated Pydantic schema validation and multi-currency calculation engines, cutting manual drafting turnaround time by 95%."
+      ]
+    },
+    {
+      "name": "Lois Braid — Smart Commerce & Booking Platform",
+      "stack": "React, Tailwind CSS, Python/Django, OpenAI API",
+      "link": "https://www.loisbraid.com",
+      "bullets": [
+        "Architected a dynamic, full-stack commerce application featuring an interactive React frontend and a high-throughput Django REST backend.",
+        "Engineered custom API endpoints for real-time scheduling and implemented an AI-assisted customer inquiry assistant."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Diploma in Computer Science",
+    "school": "Petroleum Training Institute",
+    "date": "Sep 2021 — May 2025"
+  }
+}
