@@ -1,83 +1,83 @@
 {
   "personal": {
     "name": "Oruno Awhie",
-    "title": "Full-Stack Developer (React , C# & django)",
+    "title": "Front-End Developer (React.js)",
     "email": "oruno.awhie@gmail.com",
     "phone": "+234 915 554 1159",
-    "location": "Nigeria (Remote)",
-    "portfolio": "https://www.loisbraid.com/",
+    "location": "Lagos, Nigeria",
+    "portfolio": "https://www.drakemarho.com/",
     "github": "github.com/runo25"
   },
-  "summary": "Results-driven Full-Stack Developer with 2 years of experience building responsive, high-performance web applications. Specialized in developing interactive user interfaces using React.js and engineering robust, scalable backend services using C# and .NET. Proven ability to take projects from concept to deployment, build backend automation scripts, and ensure cohesive UI/UX and secure RESTful API integrations.",
+  "summary": "Results-driven Mid-Level Front-End Developer with 2+ years of experience building high-performance, responsive web applications using React.js and modern JavaScript. Specialized in component-driven UI architecture, complex state management, responsive web design, and seamless RESTful API integration for fintech and web platforms. Passionate about delivering intuitive user experiences with high page speed performance and cross-browser reliability.",
   "skills": {
-    "Frontend": "React.js, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Responsive UI",
-    "Backend": "C#, .NET Core, ASP.NET Web API, Python, RESTful Architecture",
-    "Databases_Cloud": "SQL Server, Entity Framework, Firebase, Render, PythonAnywhere",
-    "Tools_Practices": "Git/GitHub, Postman, CI/CD basic workflows, Agile/Scrum, JSON Parsing"
+    "Frontend": "React.js, JavaScript (ES6+), TypeScript, Tailwind CSS, HTML5, CSS3, Redux, Context API, PWA, Responsive UI",
+    "Backend_APIs": "RESTful APIs, Asynchronous Data Fetching, Node.js, Python, C# (.NET Core)",
+    "Tools_Practices": "Git/GitHub, Postman, Vite/Webpack, Agile/Scrum, Performance Optimization, JSON Parsing, Figma to Code"
   },
-  "experience":[
+  "experience": [
     {
-      "role": "Full-Stack Web Developer",
-      "company": "Independent Contracts",
-      "date": "Mar 2024 — Present",
-      "bullets":[
-        "Design and develop end-to-end web applications for SMB clients, utilizing React for dynamic frontends and C# .NET for secure backend APIs.",
-        "Translate Figma designs into pixel-perfect, mobile-responsive interfaces using Tailwind CSS and React components, reducing UI bugs by 30%.",
-        "Build and consume RESTful APIs to handle user authentication, booking workflows, and dynamic content management.",
-        "Collaborate directly with clients to define project scope, deliver milestones on schedule, and provide post-launch technical support."
+      "role": "Front-End Developer",
+      "company": "Remina App",
+      "date": "Jan 2025 \u2014 Present",
+      "bullets": [
+        "Spearheaded front-end development of a Progressive Web Application (PWA) dedicated to seamless media management and interactive user workflows.",
+        "Engineered highly responsive, app-like user interfaces using React.js, optimizing image rendering, state persistence, and cross-device performance.",
+        "Collaborated with backend teams to consume REST APIs, ensuring secure data handling, fast load times, and reliable mobile responsiveness."
+      ]
+    },
+    {
+      "role": "Front-End Developer / Co-Founder",
+      "company": "Code and Canvas (WaaS Agency)",
+      "date": "Jun 2024 \u2014 Present",
+      "bullets": [
+        "Architected a modular React component library and theme system, speeding up client site delivery by 50% across multiple production deployments.",
+        "Integrated frontend interfaces with secure RESTful backend services, handling complex state management and asynchronous data fetching.",
+        "Translated client brand guidelines into responsive, accessible UI components with Tailwind CSS, increasing user conversion rates."
       ]
     },
     {
       "role": "Front-End Developer",
-      "company": "Code and Canvas (WaaS Agency)",
-      "date": "Jun 2024 — Present",
-      "bullets":[
-        "Developed a reusable React component library and theme system, speeding up client site customization and reducing average build time by 50%.",
-        "Integrated frontend interfaces with backend services, handling asynchronous state management and data fetching.",
-        "Implemented responsive layouts and modern design principles to increase client lead generation."
+      "company": "Independent Contracts",
+      "date": "Mar 2024 \u2014 Dec 2024",
+      "bullets": [
+        "Delivered end-to-end web applications for clients, building dynamic frontends with React.js and integrating custom backend endpoints.",
+        "Converted Figma & Photoshop designs into pixel-perfect, mobile-first responsive code, reducing front-end layout bugs by over 30%.",
+        "Optimized Web Vitals and Lighthouse scores across client web applications, enhancing user engagement and accessibility."
       ]
     }
   ],
-  "projects":[
-        {
-      "name": "Remina App",
-      "stack": "React.js, Progressive Web App (PWA), UI/UX",
-      "link": "https://remina-app.com/",
-      "bullets":[
-        "Spearheaded the frontend development of a Progressive Web Application (PWA) dedicated to seamless photo management and media sharing.",
-        "Engineered a highly responsive, app-like user interface using React, focusing on optimized image rendering, smooth state management, and cross-device compatibility."
-      ]
-    },
+  "projects": [
     {
-      "name": "Lois Braid",
-      "stack": "React, Tailwind CSS, C# (.NET Core Web API)",
-      "link": "https://www.loisbraid.com",
-      "bullets":[
-        "Architected a dynamic web application featuring a modern, interactive frontend built in React and styled with Tailwind CSS.",
-        "Engineered a scalable C# backend using ASP.NET Core to handle data processing, API endpoints, and secure routing."
-      ]
-    },
-    {
-      "name": "Enterprise Document Automation Engine",
-      "stack": "Python, JSON, Jinja2, WeasyPrint",
-      "link": "Internal Tool",
-      "bullets":[
-        "Engineered a dynamic PDF generation system capable of transforming raw JSON data into legally compliant, perfectly styled contracts and invoices.",
-        "Automated the calculation of taxes, balances, and multi-currency formatting, reducing manual drafting time by over 95%."
-      ]
-    },
-    {
-      "name": "Prime Portfolio Platform",
-      "stack": "React, Tailwind, REST APIs",
-      "link": "https://primeportfolio.pythonanywhere.com",
+      "name": "Visible App",
+      "stack": "React.js, Interactive UI, REST API, PWA",
+      "link": "https://visibleapp.co/",
       "bullets": [
-        "Built a dynamic portfolio generation platform featuring customizable UI templates and real-time backend updates."
+        "Engineered dynamic, interactive frontend features using React, including responsive onboarding flows and interactive UI widgets.",
+        "Integrated asynchronous backend services for real-time user activity, verification, and RSVP handling."
+      ]
+    },
+    {
+      "name": "Lois Braid Platform",
+      "stack": "React.js, Tailwind CSS, REST APIs",
+      "link": "https://www.loisbraid.com",
+      "bullets": [
+        "Architected a modern, interactive web frontend in React.js styled with Tailwind CSS for dynamic service booking.",
+        "Implemented responsive layout structures and seamless client-side state handling connected to secure endpoints."
+      ]
+    },
+    {
+      "name": "Enterprise Document Engine",
+      "stack": "Python, JSON Automation, PDF Engine",
+      "link": "Internal Tool",
+      "bullets": [
+        "Engineered an automated document generation system processing raw JSON payloads into formatted digital contracts.",
+        "Reduced manual document generation time by 95% while ensuring exact multi-currency and financial accuracy."
       ]
     }
   ],
   "education": {
     "degree": "Diploma in Computer Science",
     "school": "Petroleum Training Institute",
-    "date": "Sep 2021 — May 2025"
+    "date": "Sep 2021 \u2014 May 2025"
   }
 }
