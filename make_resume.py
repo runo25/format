@@ -43,6 +43,9 @@ if __name__ == "__main__":
         generate_pdf('data/resume_jennifer.json', 'Jennifer_Patricia_Grill_Resume.pdf')
     elif mode in ["jennifer-no-links"]:
         generate_pdf('data/resume_jennifer_no_links.json', 'Jennifer_Patricia_Grill_Resume_No_Links.pdf')
+    elif mode in ["letter", "official-letter"]:
+        from make_letter import generate_letter
+        generate_letter('data/letter_sample.json', 'Official_Letter_Sample.pdf')
     else:
         # Build all resumes
         generate_pdf('data/resume_oruno_1page.json', 'Oruno_Awhie_Resume.pdf')

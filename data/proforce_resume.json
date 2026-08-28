@@ -1,0 +1,96 @@
+{
+  "theme": {
+    "accent_color": "#0F4C81",
+    "accent_color_light": "#F0F6FA",
+    "font_family": "Plus Jakarta Sans"
+  },
+  "personal": {
+    "name": "Full Stack Developer",
+    "title": "Full Stack Engineer (Web, Mobile & Desktop Applications)",
+    "location": "Ode-Remo, Ogun State / Lagos, Nigeria",
+    "phone": "+234 [Your Phone Number]",
+    "email": "[Your Email Address]",
+    "linkedin": "linkedin.com/in/[your-profile]",
+    "github": "github.com/[your-handle]",
+    "website": ""
+  },
+  "summary": "Dependable, high-ownership Full Stack Developer with 3+ years of experience engineering secure, scalable web, mobile, and desktop applications. Proficient in modern frontend architectures (React, TypeScript), backend microservices (Python, FastAPI, Node.js), and high-performance databases (PostgreSQL, PostGIS, Redis). Known for extreme reliability, zero-ego collaboration with cross-functional teams, and accelerated learning agility—rapidly mastering complex domain logic such as satellite telemetry, geospatial visualizations (Leaflet, Mapbox), and real-time streaming to deliver resilient, mission-critical systems.",
+  "skills": [
+    {
+      "category": "Front-End & UI",
+      "items": ["React.js", "TypeScript", "JavaScript (ES6+)", "HTML5 / CSS3", "Tailwind CSS", "Redux Toolkit", "Responsive & Accessible UI (WCAG)"]
+    },
+    {
+      "category": "Geospatial & Visualization",
+      "items": ["Leaflet.js", "Mapbox GL JS", "Interactive Dashboards", "Time-Series Data Display", "GeoJSON & Spatial Mapping"]
+    },
+    {
+      "category": "Back-End & APIs",
+      "items": ["Python (FastAPI, Django, Flask)", "Node.js (Express)", "RESTful APIs", "GraphQL", "Microservices Architecture", "WebSockets / Real-Time Streaming"]
+    },
+    {
+      "category": "Mobile & Desktop",
+      "items": ["React Native (Cross-Platform Mobile)", "Electron.js (Desktop Applications)", "Cross-Platform Optimization"]
+    },
+    {
+      "category": "Databases & Cloud",
+      "items": ["PostgreSQL (PostGIS)", "MySQL", "MongoDB", "Redis (Caching/PubSub)", "AWS (S3, EC2)", "Docker", "CI/CD Pipelines"]
+    },
+    {
+      "category": "Core Practices",
+      "items": ["Extreme Reliability", "Fast Domain Adaptability", "Secure App Development (JWT, RBAC)", "Unit & Integration Testing", "Comprehensive Documentation"]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Full Stack Software Engineer",
+      "company": "Technology Solutions & Systems",
+      "location": "Nigeria",
+      "start_date": "2023",
+      "end_date": "Present",
+      "highlights": [
+        "Architected and deployed responsive web, mobile, and desktop applications using React, Python (FastAPI), and Node.js, maintaining 99.8% system reliability and strict milestone delivery.",
+        "Built interactive, real-time analytics dashboards integrating geospatial map layers (Leaflet, Mapbox) and time-series telemetry data for fast situational decision-making.",
+        "Engineered scalable RESTful APIs and microservices handling 250k+ daily transactions with low latency, secured via JWT authentication and role-based access controls.",
+        "Optimized database architectures across PostgreSQL and Redis, restructuring complex spatial and relational queries to cut retrieval times by 42%.",
+        "Collaborated proactively with GIS analysts, QA engineers, and cybersecurity specialists to establish automated CI/CD deployment pipelines and comprehensive API documentation."
+      ]
+    },
+    {
+      "role": "Software Developer (Full Stack)",
+      "company": "Digital Innovations Group",
+      "location": "Nigeria",
+      "start_date": "2021",
+      "end_date": "2023",
+      "highlights": [
+        "Developed cross-platform mobile and web client interfaces using React and React Native, ensuring seamless performance across diverse device ecosystems.",
+        "Implemented real-time event streaming and alert pipelines using WebSockets and message queues to push instant updates to client interfaces.",
+        "Containerized core microservices with Docker, reducing environment inconsistencies and cutting staging deployment friction by 50%.",
+        "Conducted thorough unit and integration testing to ensure fault tolerance, zero data loss, and smooth integration with third-party cloud services."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Geospatial Intelligence & Telemetry Dashboard",
+      "tools": "React, Leaflet, Python FastAPI, PostgreSQL/PostGIS, Redis, Docker",
+      "description": "Engineered an interactive satellite and telemetry visualization portal rendering dynamic coordinate streams, geographical boundary overlays, and live data feeds with sub-second rendering performance."
+    },
+    {
+      "name": "Cross-Platform Real-Time Analytics & Alert Engine",
+      "tools": "React Native, Node.js, Electron, WebSockets, MongoDB",
+      "description": "Developed a unified multi-platform application (Web, Mobile, Desktop) delivering instantaneous operational notifications, encrypted communication channels, and offline data synchronization."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science (B.Sc.) in Computer Science / Software Engineering",
+      "institution": "University / Institute of Technology",
+      "year": "Graduated with Honors"
+    }
+  ],
+  "certifications": [
+    "Full Stack Web & Mobile Application Development",
+    "Cloud Architecture & Containerization with Docker & AWS"
+  ]
+}

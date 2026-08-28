@@ -1,0 +1,87 @@
+{
+  "personal": {
+    "name": "Orunor Awhie",
+    "title": "Full-Stack Developer (Web, Mobile & Desktop Applications)",
+    "email": "oruno.awhie@gmail.com",
+    "phone": "+234 915 554 1159",
+    "location": "Ode-Remo, Ogun State / Nigeria (Available Onsite)",
+    "portfolio": "www.drakemarho.com",
+    "github": "github.com/runo25"
+  },
+  "summary": "Dependable, high-ownership Full-Stack Developer with 3+ years of experience engineering secure, performant web, mobile, and desktop applications. Proficient in modern frontend architectures (React, TypeScript), robust backend microservices (Python, FastAPI, Django, Node.js), and scalable databases (PostgreSQL, PostGIS, Redis). Recognized for extreme reliability, proactive cross-functional collaboration, and rapid learning agility\u2014quickly mastering complex domain logic such as satellite telemetry, geospatial visualizations (Leaflet, Mapbox), and real-time streaming to deliver resilient, mission-critical systems.",
+  "skills": {
+    "Frontend & UI Engineering": "React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Redux Toolkit, Responsive UI, Progressive Web Apps (PWA), Accessibility (WCAG)",
+    "Geospatial & Visualization": "Leaflet.js, Mapbox GL JS, Geospatial Dashboards, Time-Series Data Visualization, GeoJSON, Interactive Maps",
+    "Backend & API Development": "Python, FastAPI, Django REST Framework, Node.js, Express, RESTful APIs, GraphQL, Microservices Architecture, WebSockets / Real-Time Streaming",
+    "Mobile & Desktop Apps": "React Native (Mobile), Electron.js (Desktop Applications), Cross-Platform Optimization, Offline Synchronization",
+    "Databases, Cloud & DevOps": "PostgreSQL (PostGIS), MongoDB, Redis (PubSub/Caching), AWS (S3, EC2), Docker, CI/CD Pipelines, Git/GitHub",
+    "Core Engineering Practices": "Extreme Reliability, Rapid Domain Onboarding, Secure Application Development (JWT, RBAC), Unit/Integration Testing, API Documentation (OpenAPI/Swagger)"
+  },
+  "experience": [
+    {
+      "role": "Full-Stack & Cross-Platform Application Developer",
+      "company": "Remina App",
+      "date": "2025 \u2014 Present",
+      "bullets": [
+        "Spearheaded end-to-end full-stack development of cross-platform web and mobile applications using React, TypeScript, and Python backends.",
+        "Engineered interactive real-time dashboards and media management modules, cutting UI response times to sub-100ms across mobile and desktop viewports.",
+        "Integrated asynchronous backend workers and WebSocket streaming channels for instant live updates and fault-tolerant data synchronization.",
+        "Collaborated closely with QA and infrastructure engineers to enforce strict JWT authentication, role-based permissions, and end-to-end payload encryption."
+      ]
+    },
+    {
+      "role": "Founder & Lead Full-Stack Engineer",
+      "company": "Code and Canvas (Web & Software Solutions)",
+      "date": "Jun 2024 \u2014 Present",
+      "bullets": [
+        "Architected and deployed custom full-stack web, mobile, and desktop solutions for enterprise and SME clients, maintaining 99.9% uptime across production releases.",
+        "Built dynamic geospatial mapping modules and coordinate tracking interfaces using Leaflet and Mapbox integrated with PostgreSQL and REST APIs.",
+        "Designed modular microservices and containerized workflows with Docker, accelerating deployment pipelines and ensuring reproducible environments.",
+        "Maintained comprehensive architectural diagrams, API documentation (Swagger/Postman), and automated CI/CD pipelines to ensure seamless team maintenance."
+      ]
+    },
+    {
+      "role": "Software Engineering Consultant",
+      "company": "Independent Technical Contracts",
+      "date": "Mar 2024 \u2014 Aug 2024",
+      "bullets": [
+        "Delivered scalable web and API platforms, integrating high-throughput database schemas with PostgreSQL and caching layers with Redis.",
+        "Engineered responsive, accessible front-end interfaces adhering to WCAG standards, improving user retention by 35%.",
+        "Implemented rigorous unit and integration testing suites to guarantee deterministic data processing and zero regression bugs."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Geospatial & Satellite Telemetry Visualization Engine",
+      "stack": "React, Leaflet, Python FastAPI, PostgreSQL (PostGIS), Redis, Docker",
+      "link": "github.com/runo25",
+      "bullets": [
+        "Architected an interactive geospatial portal rendering live coordinate streams, boundary polygon overlays, and telemetry data points with low-latency updates.",
+        "Implemented spatial indexing in PostgreSQL and Redis caching to render multi-layered geo-datasets smoothly even over constrained bandwidth."
+      ]
+    },
+    {
+      "name": "AI Document Intelligence & Automation Pipeline",
+      "stack": "Python, FastAPI, Jinja2, WeasyPrint, Pydantic, Docker",
+      "link": "https://github.com/runo25/format",
+      "bullets": [
+        "Architected an automated document pipeline extracting structured JSON entities and compiling pixel-perfect, deterministic PDF dispatches with zero data loss.",
+        "Implemented schema validation and mathematical calculation engines, reducing manual document drafting cycles by 95%."
+      ]
+    },
+    {
+      "name": "Cross-Platform Real-Time Analytics & Alert Engine",
+      "stack": "React, React Native, Node.js, WebSockets, MongoDB, Tailwind CSS",
+      "link": "www.drakemarho.com",
+      "bullets": [
+        "Engineered a unified multi-platform monitoring application delivering instantaneous operational alerts and secure state synchronization across web and mobile."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Diploma in Computer Science",
+    "school": "Petroleum Training Institute",
+    "date": "Sep 2021 \u2014 May 2025"
+  }
+}
