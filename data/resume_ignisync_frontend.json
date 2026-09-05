@@ -1,0 +1,81 @@
+{
+  "theme": {
+    "accent_color": "#0D5C75",
+    "accent_dark": "#073B4C",
+    "accent_light": "#EDF8FA",
+    "accent_subtle": "#CDE9EE"
+  },
+  "personal": {
+    "name": "Orunor Awhie",
+    "title": "Frontend Engineer (Next.js \u00b7 React \u00b7 TypeScript \u00b7 Dashboard UI)",
+    "email": "oruno.awhie@gmail.com",
+    "phone": "+234 915 554 1159",
+    "location": "Nigeria (Available for Immediate Contract)",
+    "status_badge": "Available for Contract",
+    "portfolio": "www.drakemarho.com",
+    "github": "github.com/runo25"
+  },
+  "summary": "Meticulous Frontend Engineer specializing in Next.js, React, TypeScript, and Tailwind CSS with a strong focus on turning Figma designs into pixel-perfect, production-grade web applications. Deep experience building data-dense admin dashboards, complex data tables with multi-criteria filters, interactive charts, dynamic forms, and responsive landing pages. Known for writing clean, reusable, and self-documenting component code with disciplined Git versioning and rapid milestone turnaround.",
+  "skills": {
+    "Core Stack & Frameworks": "Next.js (App/Pages Router), React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5/CSS3",
+    "Dashboard & UI Architecture": "Data Tables, Complex Filtering, Modals & Drawers, Dynamic Forms, Reusable Component Systems, Chart.js / Recharts",
+    "Responsive & Layout Design": "Mobile-First Landing Pages, Desktop-First Admin Interfaces, Flexbox & CSS Grid, Cross-Browser Compatibility",
+    "State, APIs & Tooling": "RESTful APIs, Client-side State (Zustand, Context), Git, GitHub, Vercel, Clean Source Handover, Unit Testing"
+  },
+  "experience": [
+    {
+      "role": "Frontend & Dashboard Developer",
+      "company": "Code and Canvas (Web & Software Solutions)",
+      "date": "Jun 2024 \u2014 Present",
+      "bullets": [
+        "Implemented pixel-perfect landing pages and multi-tenant admin dashboards from high-fidelity Figma designs using Next.js, React, and TypeScript.",
+        "Engineered modular dashboard components: sortable/paginated data tables, multi-parameter search filters, form validation modals, and KPI summary cards.",
+        "Integrated interactive charting libraries (Recharts / Chart.js) to visualize analytics, transaction metrics, and user activity with zero render lag."
+      ]
+    },
+    {
+      "role": "Frontend Engineer (Contract / Product)",
+      "company": "Remina App",
+      "date": "2025 \u2014 Present",
+      "bullets": [
+        "Built responsive client interfaces and administrative management panels using React, Next.js, and Tailwind CSS.",
+        "Implemented modal dialogs, drawer navigations, and real-time state feedback, keeping interaction latency below 100ms.",
+        "Conducted thorough testing across mobile, tablet, and desktop viewports, resolving CSS overflow and responsive layout discrepancies."
+      ]
+    },
+    {
+      "role": "Software Frontend Contractor",
+      "company": "Independent Technical Engagements",
+      "date": "Mar 2024 \u2014 Aug 2024",
+      "bullets": [
+        "Delivered responsive web portals and client admin dashboards with dynamic tables, booking forms, and export utilities.",
+        "Ensured strict design fidelity against Figma specs: typography scales, spacing tokens, color palettes, and interactive states (hover/active/disabled).",
+        "Provided clean handover documentation and setup guides for seamless client deployment."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Geospatial & Analytics Admin Dashboard",
+      "stack": "React, TypeScript, Tailwind CSS, Data Tables, Charts, Leaflet",
+      "link": "https://github.com/runo25",
+      "bullets": [
+        "Architected an interactive admin dashboard featuring multi-layer map views, real-time coordinate data tables, and telemetry chart widgets.",
+        "Implemented multi-column filtering, tabular sorting, and interactive modals for inspection of individual data records."
+      ]
+    },
+    {
+      "name": "Prime Portfolio & Interactive Component Showcase",
+      "stack": "Next.js / React, TypeScript, Tailwind CSS, Lighthouse (100/100)",
+      "link": "https://www.drakemarho.com",
+      "bullets": [
+        "Designed and implemented flagship portfolio showcasing custom UI components, responsive layout systems, and fluid micro-interactions with 100/100 Lighthouse score."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Diploma in Computer Science",
+    "school": "Petroleum Training Institute",
+    "date": "Sep 2021 \u2014 May 2025"
+  }
+}

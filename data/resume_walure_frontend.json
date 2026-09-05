@@ -1,0 +1,82 @@
+{
+  "theme": {
+    "accent_color": "#0F4C81",
+    "accent_dark": "#0A3356",
+    "accent_light": "#F0F6FA",
+    "accent_subtle": "#D5E5F2"
+  },
+  "personal": {
+    "name": "Orunor Awhie",
+    "title": "Junior Frontend Engineer (React \u00b7 Next.js \u00b7 TypeScript)",
+    "email": "oruno.awhie@gmail.com",
+    "phone": "+234 915 554 1159",
+    "location": "Lagos / Nigeria (Open to Onsite, Hybrid & Remote)",
+    "status_badge": "Available Immediately",
+    "portfolio": "www.drakemarho.com",
+    "github": "github.com/runo25"
+  },
+  "summary": "Detail-oriented, high-initiative Junior Frontend Engineer with 2+ years of hands-on experience building fast, responsive, and accessible web applications using React, Next.js, TypeScript, and Tailwind CSS. Passionate about transforming design mockups into pixel-perfect, interactive digital experiences with clean component architecture and smooth API integrations. Recognized for strong engineering curiosity, meticulous code quality, and a disciplined work ethic\u2014eager to contribute to Walure Capital's engineering team while rapidly absorbing mentorship and best practices.",
+  "skills": {
+    "Frontend Core": "JavaScript (ES6+), TypeScript, React.js, Next.js, HTML5, CSS3, Tailwind CSS, Responsive Web Design",
+    "State & API Integration": "REST APIs, Fetch/Axios, Context API, Redux Toolkit, WebSockets / Real-Time Data, JSON Handling",
+    "Component & UI Engineering": "Reusable Component Architecture, Micro-Interactions, Mobile-First Design, Web Accessibility (WCAG), Figma-to-Code",
+    "Developer Tooling & DevOps": "Git, GitHub, NPM/Yarn, Chrome DevTools, Vercel, Netlify, Basic Docker, Performance Optimization"
+  },
+  "experience": [
+    {
+      "role": "Frontend Developer",
+      "company": "Remina App",
+      "date": "2025 \u2014 Present",
+      "bullets": [
+        "Built and maintained responsive UI features for a modern Progressive Web App (PWA) using React, Next.js, and Tailwind CSS.",
+        "Implemented smooth client-side caching and dynamic state flows, ensuring sub-100ms UI interaction speeds across mobile and desktop devices.",
+        "Integrated client-side RESTful API endpoints for asynchronous asset loading, media uploads, and error handling with clear user feedback."
+      ]
+    },
+    {
+      "role": "Frontend & Web Solutions Developer",
+      "company": "Code and Canvas",
+      "date": "Jun 2024 \u2014 Present",
+      "bullets": [
+        "Delivered 6+ custom, responsive web applications for SME clients, translating Figma wireframes into clean, maintainable Next.js codebases.",
+        "Engineered a modular, reusable UI component library (buttons, modals, form inputs, navigation bars), reducing frontend development turnaround by 40%.",
+        "Optimized client websites for performance and SEO, consistently scoring 90+ on Google Lighthouse metrics across mobile and desktop audits."
+      ]
+    },
+    {
+      "role": "Junior Software Contractor",
+      "company": "Independent Technical Contracts",
+      "date": "Mar 2024 \u2014 Aug 2024",
+      "bullets": [
+        "Developed interactive landing pages and customer onboarding forms with accessible client-side form validation.",
+        "Collaborated with backend engineers to integrate third-party payment gateways and reservation scheduling APIs.",
+        "Maintained clean documentation for component usage, styling guidelines, and deployment procedures."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prime Portfolio & UI Widget Showcase",
+      "stack": "React, TypeScript, Tailwind CSS, Google Lighthouse (100/100)",
+      "link": "https://www.drakemarho.com",
+      "bullets": [
+        "Engineered personal portfolio highlighting modern component aesthetics, dark/light themes, and fluid micro-animations with zero layout shifts.",
+        "Achieved a perfect 100/100 performance score on Google Lighthouse through image optimization, lazy loading, and semantic HTML."
+      ]
+    },
+    {
+      "name": "Lois Braid \u2014 Smart Commerce & Booking Platform",
+      "stack": "React, Tailwind CSS, REST APIs, Context API",
+      "link": "https://www.loisbraid.com",
+      "bullets": [
+        "Built responsive e-commerce and appointment booking interface with interactive product filters, cart management, and booking scheduling.",
+        "Integrated dynamic REST API endpoints with robust error handling and optimistic UI state updates."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Diploma in Computer Science",
+    "school": "Petroleum Training Institute",
+    "date": "Sep 2021 \u2014 May 2025"
+  }
+}
